@@ -1,1 +1,4 @@
-Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable.
+Linear Regression - MSE, Gradient Descent, Lasso & Ridge Regularization
+
+Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship 
+between the independent(x) and dependent(y) variable.
