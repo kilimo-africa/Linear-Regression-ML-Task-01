@@ -9,3 +9,8 @@ Feature Extraction techniques lead to advantages such as:
     Speed up in training.
     Improved Data Visualization.
     Increase in explainability of our model.
+
+
+
+References
+https://towardsdatascience.com/feature-extraction-techniques-d619b56e31be
