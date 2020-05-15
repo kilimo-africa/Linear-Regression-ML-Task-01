@@ -4,11 +4,11 @@ Aims to reduce the number of features in a dataset by creating new features from
 In this way, a summarised version of the original features can be created from a combination of the original set.
 
 Feature Extraction techniques lead to advantages such as:
-    Accuracy improvements.
-    Overfitting risk reduction.
-    Speed up in training.
-    Improved Data Visualization.
-    Increase in explainability of our model.
+        Accuracy improvements.
+        Overfitting risk reduction.
+        Speed up in training.
+        Improved Data Visualization.
+        Increase in explainability of our model.
 
 
 
