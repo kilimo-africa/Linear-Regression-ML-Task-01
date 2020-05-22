@@ -6,7 +6,7 @@ Feature Extraction techniques lead to advantages such as: Accuracy improvements.
 
 References https://towardsdatascience.com/feature-extraction-techniques-d619b56e31be
 
-#Principal Component Analysis
+Principal Component Analysis
 
 Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in machine learning.
 
